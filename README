@@ -1,0 +1,13 @@
+ Order.cpp // The main program that will take one command line arguments giving a list of words and will reshuffle them into the correct alphebtical order.
+
+
+    Dictionary.h // Contains the public portion of the struct/class for operations in dictionary.cpp
+
+    Dictionary.cpp // Contains the private portion of the struct/class for operations in dictionary.cpp including
+    //all member functions
+    
+
+    dictionaryTest.cpp // Tests the functions of the dictionary ADT in a proper manner to check for memory leaks and inefficiencies. 
+
+    *//Both dictionary.h and dictionary.c
+    //will include their constructors/destructors, copy constructors, member functions, and manipulation procedures.//*
